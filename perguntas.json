@@ -1,0 +1,92 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In which series of games do you collect souls to empower you and buy weaponry and armor with?",
+      "correct_answer": "Souls ",
+      "incorrect_answers": [
+        "Final Fantasy ",
+        "Monster Hunter",
+        "The Legend of Zelda"
+      ]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these songs by artist Eminem contain the lyric &quot;Nice to meet you. Hi, my name is... I forgot my name!&quot;?",
+      "correct_answer": "Rain Man",
+      "incorrect_answers": ["Without Me", "Kim", "Square Dance"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Human cells typically have how many copies of each gene?",
+      "correct_answer": "2",
+      "incorrect_answers": ["1", "4", "3"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of the three headed dog in Harry Potter and the Sorcerer&#039;s Stone?",
+      "correct_answer": "Fluffy",
+      "incorrect_answers": ["Spike", "Poofy", "Spot"]
+    },
+    {
+      "category": "Entertainment: Musicals & Theatres",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "How many plays is Shakespeare generally considered to have written?",
+      "correct_answer": "37",
+      "incorrect_answers": ["18", "54", "25"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which American civilization is the source of the belief that the world would end or drastically change on December 21st, 2012?",
+      "correct_answer": "The Mayans",
+      "incorrect_answers": ["The Incas", "The Aztecs", "The Navajos"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Call of Duty: Black Ops III&quot; Zombies, what does completing all the main easter eggs reward you with?",
+      "correct_answer": "1,000,000 XP",
+      "incorrect_answers": [
+        "Juggernog at the start of each game",
+        "50 Liquid Diviniums",
+        "All three options."
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In &quot;League of Legends&quot;, there exists four different types of Dragon.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Science: Mathematics",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On the cover of &#039;Abbey Road,&#039; which of the Beatles is not wearing shoes?",
+      "correct_answer": "Paul McCartney",
+      "incorrect_answers": ["Ringo Starr", "John Lennon", "George Harrison"]
+    }
+  ]
